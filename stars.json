@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "JanDeDobbeleer/oh-my-posh",
+    "stargazers_count": 7191,
+    "open_issues_count": 12,
+    "forks_count": 1282
+  },
+  {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 23725,
-    "open_issues_count": 176,
-    "forks_count": 924
+    "stargazers_count": 23777,
+    "open_issues_count": 177,
+    "forks_count": 928
   },
   {
     "full_name": "go-kit/kit",
     "stargazers_count": 23531,
     "open_issues_count": 47,
-    "forks_count": 2340
+    "forks_count": 2341
   },
   {
     "full_name": "gocopper/copper",
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "ardanlabs/gotraining",
-    "stargazers_count": 10641,
+    "stargazers_count": 10642,
     "open_issues_count": 6,
     "forks_count": 2022
   },
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 85044,
+    "stargazers_count": 85055,
     "open_issues_count": 30,
-    "forks_count": 10077
+    "forks_count": 10079
   },
   {
     "full_name": "dghubble/go-twitter",
@@ -49,33 +55,33 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 112032,
+    "stargazers_count": 112039,
     "open_issues_count": 4748,
-    "forks_count": 8004
+    "forks_count": 8003
   },
   {
     "full_name": "tinygo-org/tinygo",
-    "stargazers_count": 11248,
+    "stargazers_count": 11250,
     "open_issues_count": 431,
     "forks_count": 613
   },
   {
     "full_name": "microsoft/FluidFramework",
     "stargazers_count": 3960,
-    "open_issues_count": 421,
+    "open_issues_count": 420,
     "forks_count": 384
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 47400,
+    "stargazers_count": 47402,
     "open_issues_count": 609,
     "forks_count": 6205
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 227602,
+    "stargazers_count": 227617,
     "open_issues_count": 53,
-    "forks_count": 61219
+    "forks_count": 61220
   },
   {
     "full_name": "yaronn/blessed-contrib",

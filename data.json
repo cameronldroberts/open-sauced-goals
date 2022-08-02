@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "golang/go",
+    "stargazers_count": 102245,
+    "open_issues_count": 7845,
+    "forks_count": 15177
+  },
+  {
     "full_name": "go-kit/kit",
     "stargazers_count": 23531,
     "open_issues_count": 47,
-    "forks_count": 2340
+    "forks_count": 2341
   },
   {
     "full_name": "open-sauced/open-sauced",
