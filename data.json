@@ -1,26 +1,26 @@
 [
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 126,
-    "open_issues_count": 31,
+    "stargazers_count": 130,
+    "open_issues_count": 28,
     "forks_count": 59
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 103260,
-    "open_issues_count": 7828,
-    "forks_count": 15292
+    "stargazers_count": 103380,
+    "open_issues_count": 7829,
+    "forks_count": 15300
   },
   {
     "full_name": "go-kit/kit",
-    "stargazers_count": 23716,
-    "open_issues_count": 45,
-    "forks_count": 2354
+    "stargazers_count": 23726,
+    "open_issues_count": 39,
+    "forks_count": 2356
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 761,
+    "stargazers_count": 763,
     "open_issues_count": 18,
-    "forks_count": 364
+    "forks_count": 368
   }
 ]
