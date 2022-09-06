@@ -13,32 +13,32 @@
   },
   {
     "full_name": "hashicorp/consul",
-    "stargazers_count": 25280,
-    "open_issues_count": 1142,
-    "forks_count": 4137
+    "stargazers_count": 25295,
+    "open_issues_count": 1148,
+    "forks_count": 4140
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 132,
-    "open_issues_count": 28,
+    "stargazers_count": 134,
+    "open_issues_count": 30,
     "forks_count": 60
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 103391,
-    "open_issues_count": 7828,
-    "forks_count": 15306
+    "stargazers_count": 103479,
+    "open_issues_count": 7837,
+    "forks_count": 15324
   },
   {
     "full_name": "go-kit/kit",
-    "stargazers_count": 23729,
+    "stargazers_count": 23755,
     "open_issues_count": 39,
-    "forks_count": 2355
+    "forks_count": 2357
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 766,
-    "open_issues_count": 18,
-    "forks_count": 369
+    "stargazers_count": 771,
+    "open_issues_count": 19,
+    "forks_count": 372
   }
 ]
