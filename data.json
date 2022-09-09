@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "etcd-io/etcd",
+    "stargazers_count": 41118,
+    "open_issues_count": 195,
+    "forks_count": 8817
+  },
+  {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 61741,
+    "stargazers_count": 61742,
     "open_issues_count": 639,
     "forks_count": 6768
   },
   {
     "full_name": "kubernetes/kubernetes",
     "stargazers_count": 91901,
-    "open_issues_count": 2435,
+    "open_issues_count": 2436,
     "forks_count": 33683
   },
   {
@@ -32,7 +38,7 @@
   {
     "full_name": "open-sauced/hot",
     "stargazers_count": 138,
-    "open_issues_count": 26,
+    "open_issues_count": 28,
     "forks_count": 60
   },
   {
