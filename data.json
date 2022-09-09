@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "hashicorp/vault-plugin-auth-kubernetes",
+    "stargazers_count": 192,
+    "open_issues_count": 13,
+    "forks_count": 55
+  },
+  {
     "full_name": "box/kube-iptables-tailer",
     "stargazers_count": 478,
     "open_issues_count": 13,
@@ -27,7 +33,7 @@
     "full_name": "kubernetes/kubernetes",
     "stargazers_count": 91901,
     "open_issues_count": 2436,
-    "forks_count": 33683
+    "forks_count": 33684
   },
   {
     "full_name": "open-sauced/landing-page",
