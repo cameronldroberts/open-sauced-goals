@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "nats-io/nats-server",
+    "stargazers_count": 11460,
+    "open_issues_count": 250,
+    "forks_count": 1130
+  },
+  {
     "full_name": "grpc-ecosystem/grpc-gateway",
     "stargazers_count": 14070,
     "open_issues_count": 91,
