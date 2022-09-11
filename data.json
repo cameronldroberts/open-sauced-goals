@@ -1,25 +1,31 @@
 [
   {
+    "full_name": "cue-lang/cue",
+    "stargazers_count": 2929,
+    "open_issues_count": 449,
+    "forks_count": 174
+  },
+  {
     "full_name": "grafana/k6",
-    "stargazers_count": 17758,
+    "stargazers_count": 17766,
     "open_issues_count": 347,
     "forks_count": 924
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 42734,
-    "open_issues_count": 99,
+    "stargazers_count": 42744,
+    "open_issues_count": 101,
     "forks_count": 3364
   },
   {
     "full_name": "nats-io/nats-server",
-    "stargazers_count": 11469,
-    "open_issues_count": 250,
+    "stargazers_count": 11472,
+    "open_issues_count": 251,
     "forks_count": 1130
   },
   {
     "full_name": "grpc-ecosystem/grpc-gateway",
-    "stargazers_count": 14115,
+    "stargazers_count": 14117,
     "open_issues_count": 92,
     "forks_count": 1847
   },
@@ -49,21 +55,21 @@
   },
   {
     "full_name": "etcd-io/etcd",
-    "stargazers_count": 41124,
-    "open_issues_count": 196,
+    "stargazers_count": 41130,
+    "open_issues_count": 197,
     "forks_count": 8819
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 61762,
+    "stargazers_count": 61775,
     "open_issues_count": 639,
     "forks_count": 6768
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 91922,
-    "open_issues_count": 2429,
-    "forks_count": 33689
+    "stargazers_count": 91931,
+    "open_issues_count": 2431,
+    "forks_count": 33696
   },
   {
     "full_name": "open-sauced/landing-page",
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "hashicorp/consul",
-    "stargazers_count": 25317,
+    "stargazers_count": 25319,
     "open_issues_count": 1155,
     "forks_count": 4140
   },
@@ -91,20 +97,20 @@
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 103614,
-    "open_issues_count": 7864,
+    "stargazers_count": 103625,
+    "open_issues_count": 7870,
     "forks_count": 15351
   },
   {
     "full_name": "go-kit/kit",
-    "stargazers_count": 23779,
+    "stargazers_count": 23784,
     "open_issues_count": 39,
     "forks_count": 2354
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 776,
+    "stargazers_count": 777,
     "open_issues_count": 20,
-    "forks_count": 378
+    "forks_count": 379
   }
 ]
