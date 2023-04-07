@@ -1,63 +1,63 @@
 [
   {
     "full_name": "sourcegraph/conc",
-    "stargazers_count": 6460,
+    "stargazers_count": 6479,
     "open_issues_count": 12,
     "forks_count": 211
   },
   {
     "full_name": "loov/goda",
-    "stargazers_count": 1021,
-    "open_issues_count": 17,
+    "stargazers_count": 1022,
+    "open_issues_count": 18,
     "forks_count": 43
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 134517,
+    "stargazers_count": 134717,
     "open_issues_count": 218,
-    "forks_count": 13405
+    "forks_count": 13425
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 196205,
+    "stargazers_count": 196616,
     "open_issues_count": 267,
-    "forks_count": 19116
+    "forks_count": 19168
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 858,
-    "open_issues_count": 8,
-    "forks_count": 576
+    "open_issues_count": 9,
+    "forks_count": 577
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 10366,
-    "open_issues_count": 5,
-    "forks_count": 1977
+    "stargazers_count": 10403,
+    "open_issues_count": 8,
+    "forks_count": 1987
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 30112,
-    "open_issues_count": 159,
-    "forks_count": 1338
+    "stargazers_count": 30132,
+    "open_issues_count": 157,
+    "forks_count": 1339
   },
   {
     "full_name": "go-kit/kit",
-    "stargazers_count": 24785,
+    "stargazers_count": 24796,
     "open_issues_count": 40,
-    "forks_count": 2400
+    "forks_count": 2401
   },
   {
     "full_name": "gocopper/copper",
-    "stargazers_count": 915,
+    "stargazers_count": 914,
     "open_issues_count": 0,
     "forks_count": 29
   },
   {
     "full_name": "ardanlabs/gotraining",
-    "stargazers_count": 11225,
+    "stargazers_count": 11236,
     "open_issues_count": 0,
-    "forks_count": 2101
+    "forks_count": 2102
   },
   {
     "full_name": "amit-davidson/awesome-golang-workshops",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 99204,
-    "open_issues_count": 145,
-    "forks_count": 10841
+    "stargazers_count": 99389,
+    "open_issues_count": 144,
+    "forks_count": 10848
   },
   {
     "full_name": "dghubble/go-twitter",
@@ -85,39 +85,39 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 119205,
-    "open_issues_count": 4736,
-    "forks_count": 8826
+    "stargazers_count": 119307,
+    "open_issues_count": 4734,
+    "forks_count": 8850
   },
   {
     "full_name": "tinygo-org/tinygo",
-    "stargazers_count": 12542,
-    "open_issues_count": 495,
-    "forks_count": 725
+    "stargazers_count": 12572,
+    "open_issues_count": 494,
+    "forks_count": 726
   },
   {
     "full_name": "microsoft/FluidFramework",
-    "stargazers_count": 4263,
-    "open_issues_count": 271,
+    "stargazers_count": 4264,
+    "open_issues_count": 278,
     "forks_count": 436
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 51093,
+    "stargazers_count": 51117,
     "open_issues_count": 811,
-    "forks_count": 6771
+    "forks_count": 6772
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 253267,
+    "stargazers_count": 253570,
     "open_issues_count": 57,
-    "forks_count": 66877
+    "forks_count": 66944
   },
   {
     "full_name": "yaronn/blessed-contrib",
-    "stargazers_count": 15089,
+    "stargazers_count": 15092,
     "open_issues_count": 90,
-    "forks_count": 898
+    "forks_count": 899
   },
   {
     "full_name": "james-wallis/hitchhikers",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "kickstartcoding/cheatsheets",
-    "stargazers_count": 745,
+    "stargazers_count": 746,
     "open_issues_count": 1,
     "forks_count": 73
   },
   {
     "full_name": "instillai/deep-learning-roadmap",
-    "stargazers_count": 4423,
+    "stargazers_count": 4424,
     "open_issues_count": 2,
     "forks_count": 666
   }
