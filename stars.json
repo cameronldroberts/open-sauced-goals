@@ -1,8 +1,8 @@
 [
   {
     "full_name": "sourcegraph/conc",
-    "stargazers_count": 6676,
-    "open_issues_count": 12,
+    "stargazers_count": 6695,
+    "open_issues_count": 13,
     "forks_count": 217
   },
   {
@@ -13,49 +13,49 @@
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 135508,
-    "open_issues_count": 220,
-    "forks_count": 13501
+    "stargazers_count": 135622,
+    "open_issues_count": 221,
+    "forks_count": 13519
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 199281,
-    "open_issues_count": 274,
-    "forks_count": 19422
+    "stargazers_count": 199516,
+    "open_issues_count": 278,
+    "forks_count": 19452
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 868,
+    "stargazers_count": 871,
     "open_issues_count": 9,
-    "forks_count": 599
+    "forks_count": 606
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 10633,
-    "open_issues_count": 6,
-    "forks_count": 2027
+    "stargazers_count": 10675,
+    "open_issues_count": 5,
+    "forks_count": 2033
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 30315,
-    "open_issues_count": 149,
-    "forks_count": 1354
+    "stargazers_count": 30331,
+    "open_issues_count": 148,
+    "forks_count": 1355
   },
   {
     "full_name": "go-kit/kit",
-    "stargazers_count": 24889,
-    "open_issues_count": 40,
-    "forks_count": 2408
+    "stargazers_count": 24903,
+    "open_issues_count": 41,
+    "forks_count": 2409
   },
   {
     "full_name": "gocopper/copper",
-    "stargazers_count": 915,
+    "stargazers_count": 916,
     "open_issues_count": 0,
     "forks_count": 29
   },
   {
     "full_name": "ardanlabs/gotraining",
-    "stargazers_count": 11279,
+    "stargazers_count": 11285,
     "open_issues_count": 0,
     "forks_count": 2110
   },
@@ -73,51 +73,51 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 100525,
-    "open_issues_count": 147,
-    "forks_count": 10903
+    "stargazers_count": 100743,
+    "open_issues_count": 139,
+    "forks_count": 10908
   },
   {
     "full_name": "dghubble/go-twitter",
     "stargazers_count": 1586,
     "open_issues_count": 7,
-    "forks_count": 326
+    "forks_count": 325
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 119901,
+    "stargazers_count": 119998,
     "open_issues_count": 4736,
-    "forks_count": 8941
+    "forks_count": 8950
   },
   {
     "full_name": "tinygo-org/tinygo",
-    "stargazers_count": 12703,
+    "stargazers_count": 12715,
     "open_issues_count": 511,
-    "forks_count": 732
+    "forks_count": 735
   },
   {
     "full_name": "microsoft/FluidFramework",
-    "stargazers_count": 4283,
-    "open_issues_count": 199,
-    "forks_count": 447
+    "stargazers_count": 4287,
+    "open_issues_count": 176,
+    "forks_count": 448
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 51253,
+    "stargazers_count": 51265,
     "open_issues_count": 810,
-    "forks_count": 6794
+    "forks_count": 6797
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 255536,
+    "stargazers_count": 256052,
     "open_issues_count": 55,
-    "forks_count": 67281
+    "forks_count": 67404
   },
   {
     "full_name": "yaronn/blessed-contrib",
-    "stargazers_count": 15117,
+    "stargazers_count": 15123,
     "open_issues_count": 91,
-    "forks_count": 895
+    "forks_count": 896
   },
   {
     "full_name": "james-wallis/hitchhikers",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "instillai/deep-learning-roadmap",
-    "stargazers_count": 4442,
+    "stargazers_count": 4443,
     "open_issues_count": 2,
     "forks_count": 665
   }
