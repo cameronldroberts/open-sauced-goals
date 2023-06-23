@@ -1,67 +1,67 @@
 [
   {
     "full_name": "sourcegraph/conc",
-    "stargazers_count": 6881,
+    "stargazers_count": 6889,
     "open_issues_count": 11,
-    "forks_count": 231
+    "forks_count": 232
   },
   {
     "full_name": "loov/goda",
-    "stargazers_count": 1097,
+    "stargazers_count": 1098,
     "open_issues_count": 18,
     "forks_count": 46
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 137067,
-    "open_issues_count": 223,
-    "forks_count": 13617
+    "stargazers_count": 137148,
+    "open_issues_count": 224,
+    "forks_count": 13628
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 204810,
-    "open_issues_count": 279,
-    "forks_count": 19955
+    "stargazers_count": 205456,
+    "open_issues_count": 280,
+    "forks_count": 20035
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 885,
+    "stargazers_count": 884,
     "open_issues_count": 0,
-    "forks_count": 657
+    "forks_count": 659
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 11142,
-    "open_issues_count": 2,
-    "forks_count": 2036
+    "stargazers_count": 11178,
+    "open_issues_count": 3,
+    "forks_count": 2037
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 30637,
-    "open_issues_count": 152,
+    "stargazers_count": 30660,
+    "open_issues_count": 160,
     "forks_count": 1387
   },
   {
     "full_name": "go-kit/kit",
-    "stargazers_count": 25093,
+    "stargazers_count": 25105,
     "open_issues_count": 44,
-    "forks_count": 2422
+    "forks_count": 2421
   },
   {
     "full_name": "gocopper/copper",
     "stargazers_count": 918,
     "open_issues_count": 1,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "ardanlabs/gotraining",
-    "stargazers_count": 11340,
+    "stargazers_count": 11345,
     "open_issues_count": 0,
     "forks_count": 2120
   },
   {
     "full_name": "amit-davidson/awesome-golang-workshops",
-    "stargazers_count": 486,
+    "stargazers_count": 487,
     "open_issues_count": 0,
     "forks_count": 25
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 103486,
-    "open_issues_count": 144,
-    "forks_count": 11030
+    "stargazers_count": 103624,
+    "open_issues_count": 143,
+    "forks_count": 11038
   },
   {
     "full_name": "dghubble/go-twitter",
@@ -85,37 +85,37 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 121189,
-    "open_issues_count": 4739,
-    "forks_count": 9062
+    "stargazers_count": 121274,
+    "open_issues_count": 4736,
+    "forks_count": 9071
   },
   {
     "full_name": "tinygo-org/tinygo",
-    "stargazers_count": 12975,
-    "open_issues_count": 472,
-    "forks_count": 752
+    "stargazers_count": 12991,
+    "open_issues_count": 475,
+    "forks_count": 754
   },
   {
     "full_name": "microsoft/FluidFramework",
-    "stargazers_count": 4338,
-    "open_issues_count": 174,
-    "forks_count": 458
+    "stargazers_count": 4339,
+    "open_issues_count": 176,
+    "forks_count": 459
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 51573,
-    "open_issues_count": 808,
-    "forks_count": 6837
+    "stargazers_count": 51604,
+    "open_issues_count": 810,
+    "forks_count": 6842
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 259880,
-    "open_issues_count": 56,
-    "forks_count": 68159
+    "stargazers_count": 259993,
+    "open_issues_count": 57,
+    "forks_count": 68224
   },
   {
     "full_name": "yaronn/blessed-contrib",
-    "stargazers_count": 15162,
+    "stargazers_count": 15168,
     "open_issues_count": 91,
     "forks_count": 896
   },
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "instillai/deep-learning-roadmap",
-    "stargazers_count": 4461,
+    "stargazers_count": 4466,
     "open_issues_count": 2,
-    "forks_count": 669
+    "forks_count": 670
   }
 ]
