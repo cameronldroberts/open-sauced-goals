@@ -1,39 +1,39 @@
 [
   {
     "full_name": "golang/tools",
-    "stargazers_count": 7069,
-    "open_issues_count": 78,
-    "forks_count": 2281
+    "stargazers_count": 7075,
+    "open_issues_count": 77,
+    "forks_count": 2282
   },
   {
     "full_name": "cue-lang/cue",
-    "stargazers_count": 4425,
-    "open_issues_count": 724,
-    "forks_count": 262
+    "stargazers_count": 4433,
+    "open_issues_count": 725,
+    "forks_count": 261
   },
   {
     "full_name": "grafana/k6",
-    "stargazers_count": 22336,
-    "open_issues_count": 416,
-    "forks_count": 1181
+    "stargazers_count": 22366,
+    "open_issues_count": 414,
+    "forks_count": 1183
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 51374,
-    "open_issues_count": 144,
-    "forks_count": 3911
+    "stargazers_count": 51442,
+    "open_issues_count": 148,
+    "forks_count": 3916
   },
   {
     "full_name": "nats-io/nats-server",
-    "stargazers_count": 14092,
-    "open_issues_count": 304,
-    "forks_count": 1330
+    "stargazers_count": 14102,
+    "open_issues_count": 307,
+    "forks_count": 1333
   },
   {
     "full_name": "grpc-ecosystem/grpc-gateway",
-    "stargazers_count": 16887,
-    "open_issues_count": 131,
-    "forks_count": 2240
+    "stargazers_count": 16900,
+    "open_issues_count": 130,
+    "forks_count": 2241
   },
   {
     "full_name": "cloudflare/gokey",
@@ -44,7 +44,7 @@
   {
     "full_name": "hashicorp/vault-plugin-auth-kubernetes",
     "stargazers_count": 196,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 63
   },
   {
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "etcd-io/etcd",
-    "stargazers_count": 45480,
-    "open_issues_count": 274,
-    "forks_count": 9636
+    "stargazers_count": 45498,
+    "open_issues_count": 271,
+    "forks_count": 9642
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 70624,
-    "open_issues_count": 629,
-    "forks_count": 7508
+    "stargazers_count": 70673,
+    "open_issues_count": 632,
+    "forks_count": 7510
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 104152,
-    "open_issues_count": 2996,
-    "forks_count": 38682
+    "stargazers_count": 104226,
+    "open_issues_count": 2970,
+    "forks_count": 38708
   },
   {
     "full_name": "open-sauced/landing-page",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "hashicorp/consul",
-    "stargazers_count": 27433,
-    "open_issues_count": 1285,
-    "forks_count": 4433
+    "stargazers_count": 27439,
+    "open_issues_count": 1277,
+    "forks_count": 4434
   },
   {
     "full_name": "open-sauced/hot",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 116703,
-    "open_issues_count": 8999,
-    "forks_count": 17507
+    "stargazers_count": 116755,
+    "open_issues_count": 8993,
+    "forks_count": 17511
   },
   {
     "full_name": "go-kit/kit",
-    "stargazers_count": 25784,
+    "stargazers_count": 25799,
     "open_issues_count": 45,
     "forks_count": 2486
   },
@@ -117,6 +117,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 899,
     "open_issues_count": 0,
-    "forks_count": 819
+    "forks_count": 821
   }
 ]
